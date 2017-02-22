@@ -23,6 +23,7 @@ const baseballTeam = {
     name: "Dodgers",
     League: "National",
     Skipper: "Dave Roberts",
+    pitchers: ["Kershaw", "Hill", "Maeda"],
     playBall:  ()=> {
         return "playBall";
     }
@@ -31,3 +32,5 @@ const baseballTeam = {
 console.log(Reflect.ownKeys(iterableObject));
 console.log(Reflect.ownKeys(baseballTeam));
 console.log(baseballTeam.playBall());
+
+
