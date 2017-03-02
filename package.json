@@ -1,0 +1,22 @@
+{
+  "name": "es6-scratch",
+  "version": "1.0.0",
+  "description": "Diving deep in to es6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelpalmer/es6-scratchpad.git"
+  },
+  "author": "Joel Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelpalmer/es6-scratchpad/issues"
+  },
+  "homepage": "https://github.com/joelpalmer/es6-scratchpad#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
