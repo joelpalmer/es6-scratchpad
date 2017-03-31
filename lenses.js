@@ -6,3 +6,5 @@ console.log(R.prop('id', user))
 const updatedUser = R.assoc('id', 2, user)
 console.log(updatedUser)
 console.log(user)
+
+//continuing this in the jsfunc repo: JSFuncScratchPad.git
